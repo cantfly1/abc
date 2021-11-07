@@ -14,6 +14,7 @@ const routes = [
     component: register, 
     props:true 
   },
+
 ]
 
 const router = createRouter({
